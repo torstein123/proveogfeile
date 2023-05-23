@@ -58,7 +58,7 @@ const PlayerList = () => {
 
   return (
     <div className="PlayerList">
-      <h1>🏸Rankinglisten som er brutalt ærlig 😬</h1>
+      <h1>Rankinglista slik den burde være🏸</h1>
       <input
         type="text"
         placeholder="Søk etter spiller eller klubb"
@@ -67,7 +67,7 @@ const PlayerList = () => {
       />
       {isSearching ? (
         <h2>
-          Søker som faen <span className="rotating-emoji">🔍</span>
+        Anne-Elisabeth Hagen... <span className="rotating-emoji">🔍</span>
         </h2>
       ) : (
         <h2>Største tryhards i Norge for øyeblikket 🤩</h2>
