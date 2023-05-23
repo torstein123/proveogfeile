@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/proveogfeile/static/css/main.b542e0f5.css",
+    "main.js": "/proveogfeile/static/js/main.17fc4e39.js",
+    "static/js/787.86493815.chunk.js": "/proveogfeile/static/js/787.86493815.chunk.js",
+    "static/media/AdImage1.png": "/proveogfeile/static/media/AdImage1.c88eb487d3454e8bd5b5.png",
+    "static/media/AdImage2.png": "/proveogfeile/static/media/AdImage2.2a2b48fb9b2eb2812d1f.png",
+    "index.html": "/proveogfeile/index.html",
+    "main.b542e0f5.css.map": "/proveogfeile/static/css/main.b542e0f5.css.map",
+    "main.17fc4e39.js.map": "/proveogfeile/static/js/main.17fc4e39.js.map",
+    "787.86493815.chunk.js.map": "/proveogfeile/static/js/787.86493815.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b542e0f5.css",
+    "static/js/main.17fc4e39.js"
+  ]
+}
